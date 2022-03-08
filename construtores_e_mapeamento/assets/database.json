@@ -1,0 +1,28 @@
+{
+  "contatos": [
+    {
+    "id": "1",
+    "name": "Fernando",
+    "status": "indisponivel",
+    "street": "Peruibe"
+    },
+    {
+    "id": "1",
+    "name": "Vilela",
+    "status": "disponivel",
+    "street": "Guarulhos"
+    },
+    {
+    "id": "1",
+    "name": "Luizin",
+    "status": "desconhecido",
+    "street": "desconhecido"
+    },
+    {
+    "id": "1",
+    "name": "Valdemar",
+    "status": "online",
+    "street": "Grucity"
+    }
+  ]
+}
